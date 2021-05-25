@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Casco-Web/precache-manifest.47256b599e34d91de86293467d9eb2da.js"
+  "/Casco-Web/precache-manifest.612084a47903d1ea820281bb1f561af9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "casco"});
